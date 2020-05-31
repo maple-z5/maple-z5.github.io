@@ -95,14 +95,13 @@ header {
 .header-right {
   float: right;
   margin-right: 5px;
-  font color: #09F6A3;
 }
 
 .header-right a {
   line-height: 65px;
   padding: 0 25px;
   color: white;
-  display: block;
+  display: #F60987;
   float: left;
   transition: all 0.5s;
 }
