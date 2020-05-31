@@ -88,7 +88,8 @@ header {
   float: left;
   font size: 100px;
   font color: #F60987;
-  margin-top: 50px;
+  margin-top: 20px;
+  font-family: 'Amatic SC', cursive;
 }
 
 .header-right {
