@@ -76,7 +76,7 @@ a {
 }
 
 header {
-  height: 65px;
+  height: 100px;
   width: 100%;
   background-color: #F599CA;
   position :fixed;
@@ -92,7 +92,7 @@ header {
 
 .header-right {
   float: right;
-  margin-right: -25px;
+  margin-right: -5px;
 }
 
 .header-right a {
