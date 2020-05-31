@@ -84,14 +84,10 @@ header {
   z-index: 10;
 }
 
-.logo {
-  font size: 100px;
-  margin-top: 20px;
-  font color: #F599CA;
-}
-
 .header-left {
   float: left;
+  font size: 100px;
+  font color: #F599CA;
 }
 
 .header-right {
