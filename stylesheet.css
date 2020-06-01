@@ -92,6 +92,11 @@ header {
   letter-spacing: 5px;
 }
 
+.header-left span {
+  font-color:  red;
+  letter spacing: 0px;
+}
+
 .header-right {
   float: right;
   margin-right: 5px;
