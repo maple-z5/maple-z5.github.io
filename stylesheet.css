@@ -88,13 +88,15 @@ header {
   float: left;
   font-size: 50px;
   font-color: #F60987;
-  margin-top: 20px;
+  margin-top: 15px;
   letter-spacing: 5px;
 }
 
 .header-right {
   float: right;
   margin-right: 5px;
+  margin-top:  15px;
+  font-size:  20px;
 }
 
 .header-right a {
