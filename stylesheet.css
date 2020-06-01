@@ -95,8 +95,6 @@ header {
 .header-right {
   float: right;
   margin-right: 5px;
-  margin-top:  15px;
-  font-size:  20px;
 }
 
 .header-right a {
@@ -106,6 +104,8 @@ header {
   display: block;
   float: left;
   transition: all 0.5s;
+  margin-top:  15px;
+  font-size:  20px;
 }
 
 .header-right a:hover {
